@@ -21,7 +21,7 @@
 # X_12 poluicao2: 1 (pm_2.5> 25_um ) ; 2 (25_um<pm_2.5<75_um ); 3 (pm_2.5>75_um )
 #-------------------------------------------------------
 
-poluicaod=read.csv2("C:/Users/Joseli/Google Drive/2017/2017.2_TCC_1/Banco_Programacao/Alteracoes/Banco/SINAS_Poluicao1_missing.csv")
+poluicaod=read.csv2()
 head(poluicaod)
 names(poluicaod)
 str(poluicaod)
