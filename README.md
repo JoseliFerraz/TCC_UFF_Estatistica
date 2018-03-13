@@ -1,1 +1,6 @@
-# TCC_UFF_Estatistica
+# Trabalho de Conclusão de Curso Estatística UFF
+## Estudo dos efeitos da poluição atmosférica sobre a prematuridade em Porto Velho - RO
+
+ A poluição do ar ou atmosférica é um dos principais problemas vividos pela sociedade moderna. Mudanças ambientais podem contribuir para o aumento a exposição a poluentes de risco, fatores externos podem provocar o desencadeamento de diversos problemas de saúde. Mediante a esses resultados selecionou-se o grupo de mulheres grávidas, em virtude de serem mais suscetíveis a fatores externos e realizou-se um estudo sobre os efeitos da exposição a poluentes atmosféricos sobre a prematuridade das crianças nascidas de mães residentes no município de Porto Velho (RO), com base nos dados fornecidos pelo Sistema de Informações de Nascidos Vivos (SINASC) e pela estação de monitoramento de poluentes atmosféricos implantada pelo projeto FA PESP/AERO CLIMA. O estudo utilizará o Modelo Logístico para determinar se há ou não relação na prematuridade dos recém-nascidos (RN) do Município de Porto Velho Rondônia no período de de Jul.2010 a Dez.2011. Os
+efeitos da poluição foram estimados separadamente para cada trimestre gestacional. Foram criadas duas variáveis de estudo prematuridade 1 (nascimentos com até 37 semanas de gestação) e prematuridade 2 (nascimentos com até 31 semanas de gestação). O melhor modelo foi escolhido com base na análise dos resíduos. O ajuste foi feito
+para a exposição do poluente PM 2.5 (material particulado fino) em cada trimestre gestacional.
