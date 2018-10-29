@@ -282,7 +282,7 @@ for (i in 1:length(poluicaod$PARTO)){
   }
   else
     if(poluicaod$PARTO[i]==1){
-      parto[i]=1 #vaginal
+      parto[i]=1 #normal
     }
   else{
     parto[i]=2 #cesareo
